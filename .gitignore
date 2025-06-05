@@ -46,5 +46,7 @@ Thumbs.db
 # Log files
 *.log
 
+*.pt
+
 # IPython history
 .ipython/
