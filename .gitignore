@@ -57,5 +57,8 @@ src/gan/results/
 # Scratch files
 Claude.txt
 
+# Oversized notebook (>100MB, exceeds GitHub limit; purged from history)
+src/preprocessing/motion_blur_augmentor.ipynb
+
 # IPython history
 .ipython/
