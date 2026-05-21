@@ -46,7 +46,16 @@ Thumbs.db
 # Log files
 *.log
 
+# Model weights & checkpoints
 *.pt
+models/
+
+# Exported notebook HTML / results (large artifacts)
+notebook_checkpoints/
+src/gan/results/
+
+# Scratch files
+Claude.txt
 
 # IPython history
 .ipython/
